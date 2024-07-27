@@ -1,9 +1,9 @@
 # Table of contents
 
-## Envision Fun
+## 🏠 Envision Fun
 
-* [Welcome to Envision Fun](README.md)
-* [Rules](envision-fun/rules/README.md)
+* [✉️ Welcome to Envision Fun](README.md)
+* [📔 City Rules](envision-fun/rules/README.md)
   * [1. Be Respectful](envision-fun/rules/1.-be-respectful.md)
   * [2. No Cheating](envision-fun/rules/2.-no-cheating.md)
   * [3. Age Restrictions](envision-fun/rules/3.-age-restrictions.md)
