@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Envision Fun](README.md)
 
 ## Getting Started
 
