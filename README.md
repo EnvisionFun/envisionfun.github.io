@@ -17,6 +17,6 @@ layout:
     visible: true
 ---
 
-# Welcome to Envision Fun
+# ✉️ Welcome to Envision Fun
 
-Here is all of our documentation and information about the City.
+Here, you will find all our documentation and information about the city. This includes the rules, guidelines, and essential details to help you navigate and enjoy your time in Envision. If you have any questions or need assistance, please reach out via a Discord Ticket. Enjoy your roleplaying experience!

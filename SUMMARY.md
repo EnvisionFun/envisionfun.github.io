@@ -15,7 +15,7 @@
   * [9. New Life Rule (NLR)](envision-fun/rules/9.-new-life-rule-nlr.md)
   * [10. Participate in Events](envision-fun/rules/10.-participate-in-events.md)
   * [11. Remain in character](envision-fun/rules/11.-remain-in-character.md)
-  * [12. Mic is Required](envision-fun/rules/12.-mic-is-required.md)
+  * [12. A microphone is required](envision-fun/rules/12.-a-microphone-is-required.md)
   * [13. Have Fun](envision-fun/rules/13.-have-fun.md)
   * [14. Report Issues Properly](envision-fun/rules/14.-report-issues-properly.md)
   * [15. Reporting Staff](envision-fun/rules/15.-reporting-staff.md)
