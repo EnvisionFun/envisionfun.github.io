@@ -22,3 +22,10 @@
   * [16. Ban Appeals](envision-fun/rules/16.-ban-appeals.md)
   * [17. Respect Staff](envision-fun/rules/17.-respect-staff.md)
   * [Disclaimer](envision-fun/rules/disclaimer.md)
+
+## 🥷 Criminal World
+
+* [Criminal Structure](criminal-world/criminal-structure.md)
+* [Level 1 Crew](criminal-world/level-1-crew.md)
+* [Level 3 Crew](criminal-world/level-3-crew.md)
+* [Level 5 Crew](criminal-world/level-5-crew.md)
