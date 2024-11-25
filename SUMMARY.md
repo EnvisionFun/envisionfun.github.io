@@ -2,7 +2,8 @@
 
 ## 🏠 Envision Fun
 
-* [✉️ Welcome to Envision Fun](README.md)
+* [How to Connect to Envision Fun](README.md)
+* [✉️ Welcome to Envision Fun](<README (1).md>)
 * [📔 City Rules](envision-fun/rules/README.md)
   * [1. Be Respectful](envision-fun/rules/1.-be-respectful.md)
   * [2. No Cheating](envision-fun/rules/2.-no-cheating.md)
